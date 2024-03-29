@@ -1,4 +1,17 @@
 # 你好！Hello! Salut!
+
+```JavaScript
+dedicate = function(reader) {
+    if (reader == theone) {
+        print("To my summer...");
+    } else if (reader == myparents) {
+        print("To my parents...");
+    } else {
+        print("To the people who came here...");
+    }
+}
+```
+
 Hello and welcome to my homepage! My name is Jianqi Yang,in Chinese, it's 杨建祺.
 
 What you're looking for is probably [here](https://github.com/thinkswhat/Publication).
