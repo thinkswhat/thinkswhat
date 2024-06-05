@@ -71,18 +71,26 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=ffffff">
 <div>
-    🤖 ML &amp; DL:
+    🤖 Platform:
+    <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=ffffff">
 </div>	
-    🎀 Pub &amp; Pre:
+    ✒️ Pub &amp; Pre:
     <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-AsciiDoc-E34F26?style=flat&logo=asciidoctor&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Quarto-0288D1?style=flat&logo=quarto&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Bookdown-1F77B4?style=flat&logo=rstudio&logoColor=ffffff">
+<div>
+    🔨 Partners:
+    <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-DataSpell-000000?style=flat&logo=datagrip&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=ffffff">
 <div>
     🌟 Interested:
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000">
