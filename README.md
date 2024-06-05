@@ -1,13 +1,16 @@
-# 你好！Hello! Salut!  <img align="right" src="yihe.jpg" style="height:300px;margin-left: 40px" />
+# 你好！Hello! Salut!  <img align="right" src="yihe.jpg" style="height:440px;width:50%;margin-left:40px;" />
 
 ```JavaScript
-dedicate = function(reader) {
-    if (reader == theone) {
-        print("To my summer...");
-    } else if (reader == myparents) {
-        print("To my parents...");
+const dedicate = (reader) => {
+    const theone = "myUniqueRose";
+    const myparents = "myParents";
+
+    if (reader === theone) {
+        console.log("To my summer...");
+    } else if (reader === myparents) {
+        console.log("To my parents...");
     } else {
-        print("To the people who came here...");
+        console.log("To the people who came here...");
     }
 }
 ```
@@ -17,12 +20,6 @@ My name is Jianqi Yang,in Chinese, it's 杨建祺.
 
 What you're looking for is probably [here](https://github.com/thinkswhat/Publication), and then this is my [homepage](https://thinkswhat.github.io).
 # About me
-- I am a graduate student in software engineering of <a href="https://www.tsinghua.edu.cn/">THU</a>. <br/>
-- My recent interests focus on Cloud ☁️ &amp; MLOps.<br/>
-    <div align="right">
-	    <img src="https://shields.io/github/stars/PTYin?color=gold" style=" margin-right:5px" />
-	    <img src="https://img.shields.io/github/followers/PTYin?color=blue" style="margin-right:5px" />
-    </div>
 ## Biography
 ### Interests
 - Data Science and Statistics
