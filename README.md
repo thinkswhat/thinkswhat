@@ -1,5 +1,4 @@
 # 你好！Hello! Salut!  <img align="right" src="images/yihe.jpg" style="height:440px;width:50%;margin-left:40px;" />
-
 ```JavaScript
 const dedicate = (reader) => {
     const theone = "myUniqueRose";
