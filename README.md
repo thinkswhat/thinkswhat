@@ -1,4 +1,4 @@
-# 你好！Hello! Salut!
+# 你好！Hello! Salut!  <img align="right" src="yihe.jpg" style="height:300px;margin-left: 40px" />
 
 ```JavaScript
 dedicate = function(reader) {
@@ -11,10 +11,18 @@ dedicate = function(reader) {
     }
 }
 ```
-Hello and welcome to my homepage! My name is Jianqi Yang,in Chinese, it's 杨建祺.
+Hello and welcome to my homepage! 
+
+My name is Jianqi Yang,in Chinese, it's 杨建祺.
 
 What you're looking for is probably [here](https://github.com/thinkswhat/Publication), and then this is my [homepage](https://thinkswhat.github.io).
 # About me
+- I am a graduate student in software engineering of <a href="https://www.tsinghua.edu.cn/">THU</a>. <br/>
+- My recent interests focus on Cloud ☁️ &amp; MLOps.<br/>
+    <div align="right">
+	    <img src="https://shields.io/github/stars/PTYin?color=gold" style=" margin-right:5px" />
+	    <img src="https://img.shields.io/github/followers/PTYin?color=blue" style="margin-right:5px" />
+    </div>
 ## Biography
 ### Interests
 - Data Science and Statistics
