@@ -47,7 +47,7 @@ What you're looking for is probably [here](https://github.com/thinkswhat/Publica
 
 ## Biography
 ### Interests
-- Data Science and Statistics
+- Statistics and Machine Learning
 - AI4Science
 - Atmospheric science
 ## Tech &amp; Tools Preference
