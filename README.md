@@ -11,15 +11,17 @@ dedicate = function(reader) {
     }
 }
 ```
-
 Hello and welcome to my homepage! My name is Jianqi Yang,in Chinese, it's 杨建祺.
 
-What you're looking for is probably [here](https://github.com/thinkswhat/Publication).
-
-To learn more about me or for academic collaborations, please visit my [homepage](https://thinkswhat.github.io).
+What you're looking for is probably [here](https://github.com/thinkswhat/Publication), and then this is my [homepage](https://thinkswhat.github.io).
 # About me
-Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past
-
+## Biography
+### Interests
+- Data Science and Statistics
+- AI4Science
+- Atmospheric science
+## Tech &amp; Tools Preference
+Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past.
 <div>
     📕 Language:
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF">
@@ -54,14 +56,6 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     <img src="https://img.shields.io/badge/-ESP32-003B46?style=flat&logo=espressif&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=ffffff">
 <div>
-
-
-
-
-## Interests
-- Data Science and Statistics
-- AI4Science
-- Atmospheric science
 
 ## Something else about me
 我的人生就是在另一个这样的夕阳中确定的。
