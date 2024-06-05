@@ -22,6 +22,18 @@ What you're looking for is probably [here](https://github.com/thinkswhat/Publica
 ![image](images/daming.jpg)
 
 # About me
+<div align="center">
+        <a href="https://github.com/thinkswhat">
+            <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=ffffff" />
+        <a href="">
+            <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=ffffff" />
+        <a href="https://x.com/LuckyYo70152293">
+            <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=ffffff" />
+        <a href="https://www.researchgate.net/profile/Jianqi-Yang-2">
+            <img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=ffffff" />
+        <a href="mailto:jianqiy4@gmail.com">
+            <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=ffffff" />
+</div>
 <!--
 <div align="center">
   <table>
@@ -32,6 +44,7 @@ What you're looking for is probably [here](https://github.com/thinkswhat/Publica
   </table>
 </div>
 -->
+
 ## Biography
 ### Interests
 - Data Science and Statistics
@@ -53,17 +66,22 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     🔧 Platform:
     <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-RMarkdown-2C2D72?style=flat&logo=rmarkdown&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Quarto-0288D1?style=flat&logo=quarto&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
     <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=ffffff">
 <div>
     🤖 ML &amp; DL:
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=ffffff">
 </div>	
     🎀 Pub &amp; Pre:
     <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-AsciiDoc-E34F26?style=flat&logo=asciidoctor&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Quarto-0288D1?style=flat&logo=quarto&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Bookdown-1F77B4?style=flat&logo=rstudio&logoColor=ffffff">
 <div>
     🌟 Interested:
@@ -73,6 +91,7 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     <img src="https://img.shields.io/badge/-ESP32-003B46?style=flat&logo=espressif&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-MicroPython-2B2B2B?style=flat&logo=micropython&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=ffffff">
 <div>
 
 ## Something else about me
