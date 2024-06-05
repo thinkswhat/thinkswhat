@@ -23,6 +23,16 @@ What you're looking for is probably [here](https://github.com/thinkswhat/Publica
 ![image](images/daming.jpg)
 
 # About me
+<!--
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=thinkswhat&show_icons=true" /></td>
+      <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongyuanwai&layout=compact" /></td>
+    </tr>
+  </table>
+</div>
+-->
 ## Biography
 ### Interests
 - Data Science and Statistics
