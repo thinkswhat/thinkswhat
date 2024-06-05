@@ -60,7 +60,6 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     <img src="https://img.shields.io/badge/-Mathematica-DD1100?style=flat&logo=wolfram&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-ESP32-003B46?style=flat&logo=espressif&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Xiangshan%20Processor-FF6600?style=flat&logo=custom&logoColor=ffffff&labelColor=000000&logo=data:image/svg+xml;base64,PASTE_BASE64_ENCODED_IMAGE_HERE">
 <div>
 
 ## Something else about me
