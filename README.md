@@ -30,8 +30,11 @@ What you're looking for is probably [here](Instruction.md), and then this is my 
             <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=ffffff" />
         <a href="https://www.researchgate.net/profile/Jianqi-Yang-2">
             <img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=ffffff" />
+<!--
         <a href="mailto:jianqiy4@gmail.com">
             <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=ffffff" />
+-->
+
 </div>
 <!--
 <div align="center">
