@@ -1,3 +1,4 @@
+![image](images/daming.jpg)
 # 你好！Hello! Salut!  <img align="right" src="images/yihe.jpg" style="height:440px;width:50%;margin-left:40px;" />
 ```JavaScript
 const dedicate = (reader) => {
@@ -18,8 +19,6 @@ Hello and welcome to my homepage!
 My name is Jianqi Yang,in Chinese, it's 杨建祺.
 
 What you're looking for is probably [here](https://github.com/thinkswhat/Publication), and then this is my [homepage](https://thinkswhat.github.io).
-
-![image](images/daming.jpg)
 
 # About me
 <div align="center">
@@ -47,9 +46,9 @@ What you're looking for is probably [here](https://github.com/thinkswhat/Publica
 
 ## Biography
 ### Interests
-- Statistics and Machine Learning
-- AI4Science
-- Atmospheric science
+- Statistics, Data Science and Machine Learning, etc
+- AI4Science, especially in Atmospheric Science
+- Interaction of scientific and technological development with society and the environment
 ## Tech &amp; Tools Preference
 Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past.
 <div>
