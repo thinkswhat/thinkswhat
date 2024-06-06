@@ -71,7 +71,7 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=ffffff">
 <div>
-    🤖 Platform:
+    🤖 Learning:
     <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
