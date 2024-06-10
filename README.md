@@ -79,6 +79,7 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=ffffff">
+    <img src="https://img.shields.io/badge/-Stan-B12224?style=flat&logo=stan&logoColor=ffffff">
 </div>	
     ✒️ Pub &amp; Pre:
     <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=ffffff">
