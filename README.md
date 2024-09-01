@@ -106,9 +106,10 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
 <div>
 
 ## Something else about me
-我的人生就是在另一个这样的夕阳中确定的。
 
-Since that day, I've been looking for an acre of land, between salt water and the sea strands.
+> The springs from cracks bring forth the spring,
+> And you brought golden sunshine to my summer.
+
 ![image](images/Qushuiting.png)
 
 <!--
