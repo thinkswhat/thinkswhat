@@ -110,7 +110,7 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
 > The springs from cracks bring forth the spring,
 > And you brought golden sunshine to my summer.
 
-![image](images/Qushuiting.png)
+![image](images/Spring.jpg)
 
 <!--
 **thinkswhat/thinkswhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
