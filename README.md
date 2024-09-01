@@ -109,7 +109,7 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
 我的人生就是在另一个这样的夕阳中确定的。
 
 Since that day, I've been looking for an acre of land, between salt water and the sea strands.
-![image](images/Sunset.jpg)
+![image](images/Qushuiting.png)
 
 <!--
 **thinkswhat/thinkswhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
