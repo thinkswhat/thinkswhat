@@ -49,9 +49,11 @@ What you're looking for is probably [here](Instruction.md), and then this is my 
 
 ## Biography
 ### Interests
-- Statistics, Data Science and Machine Learning, etc
-- AI4Science, especially in Atmospheric Science
-- Interaction of scientific and technological development with society and the environment
+- Data Science, Signal Processing, Simulation and Soft Computing
+- AI4Science, including Scientific Simulations and Scientific Discovery
+- Earth system science, e.g., impacts of climate change on human health, economic activities and cultural heritage
+- Embedded system, like Single-board Computer and Microcontroller Unit 
+
 ## Tech &amp; Tools Preference
 Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past.
 <div>
