@@ -21,6 +21,9 @@ My name is *Lucky* J. Yang, and *Lucky* is an easy to pronounce English name, co
 What you're looking for is probably [here](Instruction.md), and then this is my [homepage](https://thinkswhat.github.io).
 
 # About me
+
+I count myself as an academic, I work somewhere between earth system science, data science and more basic statistics and physics, but I've also studied and learnt about other interesting things like Raspberry Pi and some embedded, and I'm interested in making my own stuff, although probably not very good at it:)
+
 <!--
 <div align="center">
         <a href="https://github.com/thinkswhat">
