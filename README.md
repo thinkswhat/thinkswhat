@@ -16,7 +16,7 @@ const dedicate = (reader) => {
 ```
 Hello and welcome to my homepage! 
 
-My name is Jianqi Yang,in Chinese, it's 杨建祺.
+My name is *Lucky* J. Yang, and *Lucky* is an easy to pronounce English name, comes from a metaphor hidden in my Chinese name.
 
 What you're looking for is probably [here](Instruction.md), and then this is my [homepage](https://thinkswhat.github.io).
 
