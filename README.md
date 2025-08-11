@@ -71,8 +71,11 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
   <a href="https://jupyter.org"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="RMarkdown" alt="RMarkdown" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
 
 
+  <a href="https://pytorch.org"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
+
+
     
-  
   <a href="https://quarto.org/"><img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" title="quarto" alt="quarto" width="55" height="60"/></a>&nbsp;&nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU8u8tpVE9yl1Jj0L81O7deRDfyW-yOXX-Kw&s" width="2" height="60">&nbsp;&nbsp;&nbsp;
   <a href="https://posit.co/download/rstudio-desktop/"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
