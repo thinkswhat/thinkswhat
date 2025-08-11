@@ -65,8 +65,10 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
   <a href="https://julialang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://ww2.mathworks.cn/products/matlab.html"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.r-project.org"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
-    <a href="https://kotlinlang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://kotlinlang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.latex-project.org"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://jupyter.org"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://jupyter.org"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="RMarkdown" alt="RMarkdown" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
 
 
     
@@ -85,9 +87,7 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=ffffff">
 <div>
     🔧 Platform:
