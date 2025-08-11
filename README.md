@@ -61,9 +61,9 @@ I count myself as an academic, I work somewhere between earth system science, da
 Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past.
 
 <div>
-  <a href="https://www.python.org"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://julialang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.python.org"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://julialang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://julialang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
 
 
     
