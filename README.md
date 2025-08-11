@@ -59,6 +59,18 @@ I count myself as an academic, I work somewhere between earth system science, da
 
 ## Tech &amp; Tools Preference
 Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past.
+
+<div>
+  <a href="https://www.python.org"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://shiny.posit.co/"><img src="https://rstudio.github.io/shiny/reference/figures/logo.png" title="shiny" alt="shiny" width="55" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://quarto.org/"><img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" title="quarto" alt="quarto" width="55" height="60"/></a>&nbsp;&nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU8u8tpVE9yl1Jj0L81O7deRDfyW-yOXX-Kw&s" width="2" height="60">&nbsp;&nbsp;&nbsp;
+  <a href="https://posit.co/download/rstudio-desktop/"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://inkscape.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="inkscape" alt="inkscape" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
+</div>
+
 <div>
     📕 Language:
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF">
