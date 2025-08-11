@@ -62,7 +62,7 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
 
 <div>
   <a href="https://www.python.org"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python" alt="Python"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://shiny.posit.co/"><img src="https://rstudio.github.io/shiny/reference/figures/logo.png" title="shiny" alt="shiny" width="55" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.r-project.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://quarto.org/"><img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" title="quarto" alt="quarto" width="55" height="60"/></a>&nbsp;&nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU8u8tpVE9yl1Jj0L81O7deRDfyW-yOXX-Kw&s" width="2" height="60">&nbsp;&nbsp;&nbsp;
   <a href="https://posit.co/download/rstudio-desktop/"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
@@ -85,10 +85,6 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     🔧 Platform:
     <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-RMarkdown-2C2D72?style=flat&logo=rmarkdown&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql">
-    <img src="https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=ffffff">
 <div>
     🤖 Learning:
     <img src="https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=ffffff">
