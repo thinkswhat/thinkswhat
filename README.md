@@ -68,7 +68,8 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
   <a href="https://kotlinlang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.latex-project.org"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://jupyter.org"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://jupyter.org"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="RMarkdown" alt="RMarkdown" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.anaconda.com"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
+  
 
 
   <a href="https://pytorch.org"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
