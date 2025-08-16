@@ -65,12 +65,8 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
   <a href="https://julialang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia" alt="Julia" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://ww2.mathworks.cn/products/matlab.html"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.r-project.org"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://kotlinlang.org"><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.latex-project.org"><img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://jupyter.org"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.anaconda.com"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
-  
-
 
   <a href="https://pytorch.org"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
@@ -82,6 +78,8 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
   <a href="https://github.com"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://inkscape.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="inkscape" alt="inkscape" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
 </div>
+
+<!--
 
 <div>
     📕 Language:
@@ -115,6 +113,8 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     <img src="https://img.shields.io/badge/-ESP32-003B46?style=flat&logo=espressif&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-MicroPython-2B2B2B?style=flat&logo=micropython&logoColor=ffffff">
+
+-->
 
 ## Something else about me
 
