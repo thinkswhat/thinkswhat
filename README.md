@@ -75,8 +75,6 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
   <a href="https://pytorch.org"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="60" height="60"/></a> &nbsp;&nbsp;&nbsp;
 
-
-    
   <a href="https://quarto.org/"><img src="https://rstudio.github.io/cheatsheets/html/images/logo-quarto.png" title="quarto" alt="quarto" width="55" height="60"/></a>&nbsp;&nbsp;&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU8u8tpVE9yl1Jj0L81O7deRDfyW-yOXX-Kw&s" width="2" height="60">&nbsp;&nbsp;&nbsp;
   <a href="https://posit.co/download/rstudio-desktop/"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio" alt="rstudio" width="60" height="60"/></a>&nbsp;&nbsp;&nbsp;
@@ -104,31 +102,19 @@ Tools that I use on a daily basis, or that I've used or worked (either much or a
     <img src="https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Stan-B12224?style=flat&logo=stan&logoColor=ffffff">
 </div>	
     ✒️ Pub &amp; Pre:
     <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-AsciiDoc-E34F26?style=flat&logo=asciidoctor&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Quarto-0288D1?style=flat&logo=quarto&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Bookdown-1F77B4?style=flat&logo=rstudio&logoColor=ffffff">
-<div>
-    🔨 Partners:
-    <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-DataSpell-000000?style=flat&logo=datagrip&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=ffffff">
 <div>
     🌟 Interested:
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000">
     <img src="https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberry-pi&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Mathematica-DD1100?style=flat&logo=wolfram&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-ESP32-003B46?style=flat&logo=espressif&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=ffffff">
     <img src="https://img.shields.io/badge/-MicroPython-2B2B2B?style=flat&logo=micropython&logoColor=ffffff">
-    <img src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=ffffff">
-<div>
 
 ## Something else about me
 
